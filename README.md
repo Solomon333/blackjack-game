@@ -1,5 +1,5 @@
 
-BLACKJACK GAME.
+BLACKJACK GAME
 
 - blackjack game ruls
 
