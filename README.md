@@ -1,7 +1,7 @@
 
 BLACKJACK GAME
 
-- blackjack game ruls
+- blackjack game ruls---
 
 - created with javascript css and html
 
