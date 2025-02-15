@@ -5,6 +5,6 @@ BLACKJACK GAME
 
 - created with javascript css and html=====
 
-- DOM manipulation
+- DOM manipulation=======
 - function and objects
 
